@@ -1,6 +1,7 @@
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 title: 'Argentina-Venezuela: cola desprotegida'
 description: 'una falla en la cola virtual de venta para el partido puede ser abusada para asegurarse comprar entradas'
 github:
   is_user_page: false
   is_project_page: false
+show_downloads: false
