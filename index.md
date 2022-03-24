@@ -19,7 +19,7 @@ El sistema real de venta de entradas es el descrito antes solo que no hace falta
 A diferencia del sorteo presencial, el sistema se encarga de realizar todo automáticamente y de llevarnos luego a la fila. No vemos cuál es el número que nos tocó para el sorteo, ni hay necesidad de estar pendientes de cuándo lo cantan para no perder el lugar en la fila. El sistema identifica a todas las personas conectadas, les asigna un número a cada una y hace un sorteo internamente que no vemos: solo notamos estar en un momento en la sala del sorteo y luego, a la hora de la venta, ser llevados a la fila en un lugar al azar, que no tiene que ver con cuánto antes nos conectamos al sitio (los primeros en llegar no son necesariamente los primeros en la fila).
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/FOJEoCuXwAEWR6r?format=jpg" width="300" height="500">
+  <img src="https://pbs.twimg.com/media/FOJEoCuXwAEWR6r?format=jpg" width="400" height="500">
 </p>
 
 Este sistema de sorteo virtual para conseguir un lugar en la fila de compra está manejado por otra empresa aparte, llamada **Enqueue**, sin (aparente) conexión con Autoentrada, y de la que hay muy pocos datos públicos. El único contenido encontrado es una serie de [artículos publicitarios](https://medium.com/@enqueue) sobre su sistema. Su [página web](https://enqueue.pro/) no responde y los [datos de registración](https://who.is/whois/enqueue.pro) de la misma están redactados. Creada recientemente en el 2020, parece haber prestado servicios casi exclusivamente para Autoentrada.
