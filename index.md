@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://autoentrada-com-uploads.eventbrain.net/images/thumbs/79801ea0f19c5e3beada-Evento--agotado.png?raw=true">
+  <img src="https://pbs.twimg.com/media/FOJhJb7WUAkHXEp?format=jpg&name=large" width="350" height="500">
 </p>
 
 Es conocido que cualquier persona puede conectarse con varios dispositivos a la vez para aumentar sus chances de conseguir una entrada. Esta es una falla en el sistema de la cola virtual usado para la venta de entradas que no aplica las protecciones necesarias. Esta falla se puede abusar al punto tal de que cualquier persona puede garantizarse conseguir entradas con muy poco esfuerzo ni conocimientos informáticos.
